@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memorama", "Memorama.csproj", "{86FE6375-6B93-4E55-A317-3AE7ADB64167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86FE6375-6B93-4E55-A317-3AE7ADB64167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FE6375-6B93-4E55-A317-3AE7ADB64167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FE6375-6B93-4E55-A317-3AE7ADB64167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FE6375-6B93-4E55-A317-3AE7ADB64167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25674BF1-D88D-4DE2-BD17-CB29222AF8BD}
+	EndGlobalSection
+EndGlobal
